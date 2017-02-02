@@ -101,3 +101,4 @@ Licenses
 - The current UI design has been adapted from Moblintouch theme's SVGs
   and is licensed under the terms of the
   [LGPLv2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1).
+waykm
